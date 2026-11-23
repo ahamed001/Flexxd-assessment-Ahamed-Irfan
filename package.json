@@ -1,0 +1,14 @@
+{
+  "name": "flexxd-backend",
+  "version": "1.0.0",
+  "description": "Flexxd technical assessment - Express backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
